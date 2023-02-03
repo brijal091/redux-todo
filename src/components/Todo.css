@@ -1,0 +1,23 @@
+.todo-box{
+   padding: 10px;
+   text-align: left;
+    background-color: #20262E;
+    height: 70px;
+    color: white;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.f-icon{
+    margin: 15px;
+    color: #aa3e89;
+    cursor: pointer;
+    font-size: 25px;
+}
